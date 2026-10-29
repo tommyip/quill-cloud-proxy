@@ -347,6 +347,7 @@ def test_build_payload_iterates_all_known_providers() -> None:
         "greenference",
         "hixtube",
         "muna",
+        "negbeta",
         "abliteration",
         "coralbricks",
         "fortanix",
